@@ -34,20 +34,7 @@ npm start
 npm run build
 ```
 
-### Check code style
+## 运行效果
+![image](https://user-images.githubusercontent.com/22902414/217450679-65d12c6a-1f81-45a3-8bf6-7d3ebf658b22.png)
+![image](https://user-images.githubusercontent.com/22902414/217450953-1efacbe6-0dfd-406c-9ae2-ef3605a28eb1.png)
 
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
